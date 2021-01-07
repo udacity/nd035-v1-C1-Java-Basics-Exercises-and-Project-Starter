@@ -14,23 +14,21 @@ Make a copy of this repository in your Github account. You can do so by clicking
 
 
 ### Step 2
-Once a copy of the repository is forked to your GitHub account, you can copy the repository HTTP URL, such as `https://github.com/YOUR_ACCOUNT_NAME/nd035-v1-C1-Java-Basics-Exercises-and-Project-Starter.git`
+1. **Fork** - Once a copy of the repository is forked to your GitHub account, you can copy the repository HTTP URL, such as `https://github.com/YOUR_ACCOUNT_NAME/nd035-v1-C1-Java-Basics-Exercises-and-Project-Starter.git`. Next, you will need to clone (download) the repository locally in your system. 
 
+2. **Clone the repository** - There are two ways to clone this repository locally (choose any one).
 
-Now, you will need to clone (download) the repository locally in your system. There are two ways to clone this repository locally (choose any one):
-1. **Download the repo using the command-line terminal**:
-You can run the following commands in your terminal (macOS/Linux)/Gitbash (Windows):
+ 1. **Using the command-line terminal**: You can run the following (sample) commands in your terminal (macOS/Linux)/Gitbash (Windows). In the first command, use the HTTPS URL copied in the step above. 
 ```bash
 git clone https://github.com/udacity/nd035-v1-C1-Java-Basics-Exercises-and-Project-Starter.git
 cd nd035-v1-C1-Java-Basics-Exercises-and-Project-Starter
 ```
-**Note** - Do not forget to change the repository HTTPS URL before running the command. 
+
+ 2. **Clone directly in your IntelliJ IDE**: IntelliJ provides VCS (Version Control System) menu to import a Github repository directly into your IntelliJ IDE. You can even perform all standard operations within your IDE, such as, add, commit, push, pull, merge, switch branch, etc. 
+>**Troubleshoot** - If the imported project is not shown as a Maven project, simply right-click on the `pom.xml` file, and choose to add it as a Maven project.
 
 
-2. **Clone directly in your IntelliJ IDE**: 
-IntelliJ provides VCS (Version Control System) menu to import a Github repository directly into your IntelliJ IDE. You can even perform all standard operations within your IDE, such as, add, commit, push, pull, merge, switch branch, etc. For more info, refer to the blog [Clone a Project from GitHub](https://blog.jetbrains.com/idea/2020/10/clone-a-project-from-github/), or [Instructions to Importing a project ](https://www.jetbrains.com/help/idea/import-project-or-module-wizard.html)
-
->**Note** - If the imported project is not shown as a Maven project, simply right-click on the `pom.xml` file, and choose to add it as a Maven project.
+For more info, refer to the blog [Clone a Project from GitHub](https://blog.jetbrains.com/idea/2020/10/clone-a-project-from-github/), or [Instructions to Importing a project ](https://www.jetbrains.com/help/idea/import-project-or-module-wizard.html)
 
 
 ## License
