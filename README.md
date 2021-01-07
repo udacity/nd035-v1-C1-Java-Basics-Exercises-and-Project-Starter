@@ -6,12 +6,12 @@ It contains the following folders:
 2. exercises: Contains the classroom exercises
 3. P01-Chatroom: This folder contains a project readme file that has the instructions to follow
 
->Note that typically, you cannot clone a particular folder to your local system. Instead, you clone the *entire repository*, as explained below:
+>Generally, you cannot clone a particular folder to your local system. Instead, you clone the *entire repository*, as explained below:
 
 ## How to clone this repository
 ### Step 1 - Fork the repository
 Make a copy of this repository in your Github account. You can do so by clicking `Fork` on the top right corner of this repository. 
-
+<br>
 
 ### Step 2 - Clone the repository
 Once a copy of the repository is forked to your GitHub account, you can copy the repository HTTP URL, such as `https://github.com/YOUR_ACCOUNT_NAME/nd035-v1-C1-Java-Basics-Exercises-and-Project-Starter.git`. Next, you will need to clone (download) the repository locally in your system. 
