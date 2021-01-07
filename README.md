@@ -9,22 +9,21 @@ It contains the following folders:
 >Note that typically, you cannot clone a particular folder to your local system. Instead, you clone the *entire repository*, as explained below:
 
 ## How to clone this repository
-### Step 1
+### Step 1 - Fork the repository
 Make a copy of this repository in your Github account. You can do so by clicking `Fork` on the top right corner of this repository. 
 
 
-### Step 2
-1. **Fork** - Once a copy of the repository is forked to your GitHub account, you can copy the repository HTTP URL, such as `https://github.com/YOUR_ACCOUNT_NAME/nd035-v1-C1-Java-Basics-Exercises-and-Project-Starter.git`. Next, you will need to clone (download) the repository locally in your system. 
+### Step 2 - Clone the repository
+Once a copy of the repository is forked to your GitHub account, you can copy the repository HTTP URL, such as `https://github.com/YOUR_ACCOUNT_NAME/nd035-v1-C1-Java-Basics-Exercises-and-Project-Starter.git`. Next, you will need to clone (download) the repository locally in your system. 
 
-2. **Clone the repository** - There are two ways to clone this repository locally (choose any one).
-
- 1. **Using the command-line terminal**: You can run the following (sample) commands in your terminal (macOS/Linux)/Gitbash (Windows). In the first command, use the HTTPS URL copied in the step above. 
+There are two ways to clone this repository locally (choose any one).
+1. **Using the command-line terminal**: You can run the following (sample) commands in your terminal (macOS/Linux)/Gitbash (Windows). In the first command, use the HTTPS URL copied in the step above. 
 ```bash
 git clone https://github.com/udacity/nd035-v1-C1-Java-Basics-Exercises-and-Project-Starter.git
 cd nd035-v1-C1-Java-Basics-Exercises-and-Project-Starter
 ```
 
- 2. **Clone directly in your IntelliJ IDE**: IntelliJ provides VCS (Version Control System) menu to import a Github repository directly into your IntelliJ IDE. You can even perform all standard operations within your IDE, such as, add, commit, push, pull, merge, switch branch, etc. 
+2. **Clone directly in your IntelliJ IDE**: IntelliJ provides VCS (Version Control System) menu to import a Github repository directly into your IntelliJ IDE. You can even perform all standard operations within your IDE, such as, add, commit, push, pull, merge, switch branch, etc. 
 >**Troubleshoot** - If the imported project is not shown as a Maven project, simply right-click on the `pom.xml` file, and choose to add it as a Maven project.
 
 
