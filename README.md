@@ -3,18 +3,18 @@ This repository is related to the Java Web Developer (**ND035 v1**), Course - Ja
 
 It contains the following folders:
 1. demos: Contains the classroom demonstrations
-2. exercises: Contains the clasroom exercises
+2. exercises: Contains the classroom exercises
 3. P01-Chatroom: This folder contains a project readme file that has the instructions to follow
 
->Note that typically, you cannot clone a particular folder to your local system. Instead, you clone the *enitre repository*, as explained below:
+>Note that typically, you cannot clone a particular folder to your local system. Instead, you clone the *entire repository*, as explained below:
 
 ## How to clone this repository
 ### Step 1
-Make a copy of this repository in your Guthub account. You can do so by clicking `Fork` on the top right corner of this repository. 
+Make a copy of this repository in your Github account. You can do so by clicking `Fork` on the top right corner of this repository. 
 
 
 ### Step 2
-Once, a copy of the repository is forked to your Gitub account, you can copy the repository HTTP URL, such as `https://github.com/YOUR_ACCOUNT_NAME/nd035-v1-C1-Java-Basics-Exercises-and-Project-Starter.git`
+Once a copy of the repository is forked to your GitHub account, you can copy the repository HTTP URL, such as `https://github.com/YOUR_ACCOUNT_NAME/nd035-v1-C1-Java-Basics-Exercises-and-Project-Starter.git`
 
 
 Now, you will need to clone (download) the repository locally in your system. There are two options to clone this repository locally:
